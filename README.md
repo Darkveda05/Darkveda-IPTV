@@ -8,10 +8,10 @@ Android devices only (TV/Box/Phone/Tablet/Car)
     3) Go to Settings
     4) Select Provider → Add Provider
     5) Choose Playlist
-    Enter URL:
-    https://tinyurl.com/DarkvedaTvTrial
+    6) Enter URL:
+       https://tinyurl.com/DarkvedaTvTrial
     
-    6) Press APPLY
+    7) Press APPLY
     
     Enjoy !!!
 
