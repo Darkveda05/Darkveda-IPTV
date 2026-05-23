@@ -17,4 +17,4 @@ Android devices only (TV/Box/Phone/Tablet/Car)
 
 [Download OTT Navigator](https://tinyurl.com/y46d4wkj) <br><p></p>
 
-![Watch the video](https://player.vimeo.com/video/1193114875?h=7f69e38544)
+https://github.com/user-attachments/assets/76f5332e-1c7c-4614-8917-3fb4b7df7fe4
