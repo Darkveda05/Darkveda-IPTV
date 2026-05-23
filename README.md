@@ -3,17 +3,15 @@
 **Steps to Install IPTV**<br><p></p>
 Android devices only (TV/Box/Phone/Tablet/Car)
 
-    1) Download & Install OTT Navigator
+    1) Download & Install OTT Navigator 
     2) Open OTT Navigator
     3) Go to Settings
     4) Select Provider → Add Provider
     5) Choose Playlist
-    6) Enter URL:
-       https://tinyurl.com/DarkvedaTvTrial
-    
+    6) Enter URL:  https://tinyurl.com/DarkvedaTvTrial
     7) Press APPLY
     
-    Enjoy !!!
+ENJOY !!!
 
 [Download OTT Navigator](https://tinyurl.com/y46d4wkj) <br><p></p>
 
