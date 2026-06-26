@@ -8,9 +8,11 @@ Android devices only (TV/Box/Phone/Tablet/Car)
     3) Go to Settings
     4) Select Provider → Add Provider
     5) Choose Playlist
-    6) Enter URL:  https://tinyurl.com/DarkvedaTvTrial
+    6) Enter URL:  https://tinyurl.com/DTVfreetrial
     7) Press APPLY
-    
+
+Contact Telegram @Dark_Veda for approval
+
 ENJOY !!!
 
 [Download OTT Navigator](https://tinyurl.com/y46d4wkj) <br><p></p>
